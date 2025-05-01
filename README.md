@@ -15,8 +15,8 @@
 ---
 
 ## 🚀 Live Demo  
-🔗 **Frontend (Vercel)**: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
-🔗 **Backend (Render/Railway)**: [https://your-backend-url.com](https://your-backend-url.com)  
+🔗 **Frontend (Vercel)**: [https://your-vercel-url.vercel.app](https://seeyouspacemovies.netlify.app/)  
+🔗 **Backend (Render/Railway)**: (Working Internally Or on Local )  
 
 ---
 
